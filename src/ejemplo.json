@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "The Matrix",
+        "director": "Lana & Lilly Wachowski",
+        "year": "1999",
+        "rating": "8.7"
+    },
+    {
+        "id": "2",
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": "1994",
+        "rating": "9.3"
+    }
+]
