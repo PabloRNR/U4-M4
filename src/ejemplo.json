@@ -12,5 +12,47 @@
         "director": "Frank Darabont",
         "year": "1994",
         "rating": "9.3"
+    },
+    {
+        "id": "3",
+        "title": "Meet Joe Black",
+        "director": "Martin Brest",
+        "year": "1998",
+        "rating": "7.2"
+    },
+    {
+        "id": "4",
+        "title": "Speed",
+        "director": "Jan de Bont",
+        "year": "1994",
+        "rating": "7.2"
+    },
+    {
+        "id": "5",
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "year": "1991",
+        "rating": "8.6"
+    },
+    {
+        "id": "6",
+        "title": "Avatar",
+        "director": "James Cameron",
+        "year": "2009",
+        "rating": "7.8"
+    },
+    {
+        "id": "7",
+        "title": "The Lord of the Rings: The Return of the King",
+        "director": "Peter Jackson",
+        "year": "2003",
+        "rating": "8.9"
+    },
+    {
+        "id": "8",
+        "title": "Milagro en la celda 7",
+        "director": "Frank Darabont",
+        "year": "2019",
+        "rating": "8.2"
     }
 ]
